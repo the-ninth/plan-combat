@@ -7,7 +7,7 @@ const CarWins: u32 = 10;
 const NoahLimit: u128 = 300000;
 const CarLimit: u128 = 3000;
 const NoahPerWin: u128 = 10;
-const EventEndTimestamp: u64 = 1694779200;
+const EventEndTimestamp: u64 = 1694782800;
 
 #[derive(Component, Copy, Drop, Serde, SerdeLen)]
 struct EventReward {
